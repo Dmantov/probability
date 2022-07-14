@@ -36,3 +36,5 @@ while True:
     print(wordS, f'{(end - start):.5f}')
     cont += 1
     wordS = ''
+
+#
